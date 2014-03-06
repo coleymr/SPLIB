@@ -1,3 +1,0 @@
-dbhost1:3306:replication:passwd:B:S
-dbhost2:3306:replication:passwd:B:S
-dbhost3:3306:replication:passwd:M:M
